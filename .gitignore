@@ -1,1 +1,10 @@
 .DS_Store
+trash/
+build/
+*.userdb/*
+*.log
+CURRENT
+LOCK
+*LOG*
+*MANIFEST*
+*.ldb
